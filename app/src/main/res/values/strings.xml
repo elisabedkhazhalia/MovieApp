@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="fragment_loaded">Fragment Loaded</string>
+</resources>
